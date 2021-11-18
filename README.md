@@ -1,4 +1,4 @@
-# PyTorch Kafka Dataset: A definition of a dataset to get data for training from Kafka.
+# PyTorch Kafka Dataset: A definition of a dataset to get training data from Kafka.
 
 ## Usage
 To use this library, you just have to create a TrainingKafkaDataset with a ControlMessage, boostrapServers, and a group_id.
